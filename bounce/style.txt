@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #282c34;
+}
+
+#gameArea {
+    position: relative;
+    width: 80vw;
+    height: 80vh;
+    border: 2px solid white;
+    background-color: black;
+}
+
+#dvd {
+    position: absolute;
+    font-family: Sans-Serif;
+    font-size: 100px;
+    font-weight: bold;
+    color: #61dafb;
+}
