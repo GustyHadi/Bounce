@@ -10,8 +10,8 @@ body {
 
 #gameArea {
     position: relative;
-    width: 100vw;
-    height: 100vh;
+    width: 95vw;
+    height: 95vh;
     border: 2px solid white;
     background-color: black;
 }
